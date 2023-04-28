@@ -1,0 +1,5 @@
+De verschillende data's die bijgehoude zijn zijn de nummers, eigenaren, en saldobedragen
+Dit gaat over een moment waar bankrekeningen kunnen aangemaakt worden.
+Voor de 3 transacties die gebied worden op het eerste rekiening namelijk het storten van het geld. 
+De tweede is niet bestaand en dus is er geen afhaal mogelijkheid. 
+Op de vierde wordt alles gestrort qua bedrag.
